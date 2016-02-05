@@ -1,0 +1,22 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "Web Crawler untuk mengambil data pada google scholar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google",
+    "scholar",
+    "web",
+    "crawler"
+  ],
+  "author": "Eko Junaidi Salam",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "express": "^4.13.4",
+    "request": "^2.69.0"
+  }
+}
